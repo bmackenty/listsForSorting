@@ -1,4 +1,5 @@
 # This program is used to generate a rather large list of random numbers.
+# This program creates an ordered and unordered list
 # The list is then used for computer science students to 
 # apply their understanding of standard searches and sorts. 
 
