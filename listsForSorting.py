@@ -1,4 +1,4 @@
-# This program is used to generate sorted and unsorted lists.
+# This program is used to generate ordered and unordered lists.
 # The lists are then used for computer science students to 
 # apply their understanding of standard searches and sorts. 
 
