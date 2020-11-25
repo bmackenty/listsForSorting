@@ -30,7 +30,7 @@ def orderedList():
 
 
 # this is where we call the functions to make our lists
-# uncomment out whiever list you want to make
+# uncomment out whichever list you want to make
 
 unorderedList()
 # orderedList()
